@@ -56,10 +56,6 @@
   <img src="https://streak-stats.demolab.com?user=Davidojekunle&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davidojekunle&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
 ---
 
 ### 🐍 Contribution snake
