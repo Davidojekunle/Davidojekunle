@@ -20,7 +20,7 @@
 - 🔨 Working on **The Floor**: a multi-room task manager with rooms, staged tasks, a calendar and chat
 - 🏆 Built **The Elites Tracker**, an academic leaderboard for my CS cohort
 - 🎬 Also into video production & motion graphics
-- 📫 Reach me: temiojekunle74@gmail.com
+- 📫 Reach me: davidoiekunle@gmail.com
 
 ---
 
@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/david-ojekunle-505761301/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/davidoiekunle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/damilarevies/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:temiojekunle74@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:davidoiekunle@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
